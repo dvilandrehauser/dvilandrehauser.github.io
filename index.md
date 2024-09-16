@@ -5,4 +5,4 @@ My favorite websites include:
 1. [niagara](niagara.edu/)
 1. [youtube](youtube.com)
 
-![Spongebob Meme](CIS 232 Week 4 Homework.png)
+![Spongebob Meme](dvilandrehauser.github.io/CIS 232 Week 4 Homework.png)
